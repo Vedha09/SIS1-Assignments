@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS1", "SIS1.csproj", "{5944C03D-6A2C-4A1B-ADC8-FE6FFB81B6AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISTestProject1", "..\SISTestProject1\SISTestProject1.csproj", "{31E2D569-C639-4DA8-94EE-AA1BFE79F7EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5944C03D-6A2C-4A1B-ADC8-FE6FFB81B6AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5944C03D-6A2C-4A1B-ADC8-FE6FFB81B6AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5944C03D-6A2C-4A1B-ADC8-FE6FFB81B6AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5944C03D-6A2C-4A1B-ADC8-FE6FFB81B6AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E2D569-C639-4DA8-94EE-AA1BFE79F7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E2D569-C639-4DA8-94EE-AA1BFE79F7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E2D569-C639-4DA8-94EE-AA1BFE79F7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E2D569-C639-4DA8-94EE-AA1BFE79F7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE609FD-EE74-4A8E-9222-98A3BE70710F}
+	EndGlobalSection
+EndGlobal
